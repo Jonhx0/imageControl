@@ -1,4 +1,3 @@
-# teste de git push e pull
 from fetch import fetch_webpage_content
 from parse_image import extract_all_image_urls
 from select_image_gui import display_images
